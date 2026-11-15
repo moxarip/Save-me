@@ -1,0 +1,6 @@
+{
+  "name": "ارسم للإنقاذ",
+  "description": "لعبة ألغاز فيزيائية ثنائية الأبعاد: ارسم خطاً لحماية البطل من أسراب النحل والحمم البركانية عبر ٢٠ مرحلة ممتعة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
